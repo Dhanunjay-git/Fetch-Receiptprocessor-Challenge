@@ -75,7 +75,7 @@ The Receipt Processor Service is a Spring Boot application designed to process r
 
 - **Test 1 **:
 
-  ![Postman Request Example 1](/ReceiptProcessor/images/Postman Test id generated11.png)
+  ![Postman Request Example 1](ReceiptProcessor/Resultimages/PostmanTestidgenerated11.png)
 
   - *Figure 1: This image shows the receipt being processed in Postman, and a unique receipt ID is generated in the response.*
   
